@@ -1,0 +1,57 @@
+{
+  "home-header": {
+    "speaciality": "Medical specialty",
+    "searchdoctor": "Find a doctor by speaciality",
+    "department": "Department of Health",
+    "selecthopital": "Select the hospital",
+    "doctor": "Doctors",
+    "selectdoctor": "Select the great doctor.",
+    "healthycheck": "Health Checkup Package.",
+    "generalcheck": "General health check ",
+    "support": "Support",
+    "welcome": "Welcome"
+  },
+  "home-banner": {
+    "medicalbackground": "Medical Background",
+    "comprehensive": "Comprehensive health care"
+  },
+  "home-options": {
+    "speaciality": " Speaciality",
+    "telemedicine": " Telemedicine",
+    "general": "  General Check-up",
+    "test": "Medical Test",
+    "mental": "Mental Health",
+    "dental": "Dental Clinic"
+  },
+
+  "menu": {
+    "admin": {
+      "manage-user": "User",
+      "manage-doctor": "Manage Docter",
+      "manage-admin": "Manage Admin",
+      "crud": "CRUD User",
+      "crud-redux": "Crud user redux",
+      "clinic": "Clinic",
+      "manage-clinic": "Manage Clinic",
+      "speacialty": "Speacialty",
+      "manage-speacialty": "Manage speacialty",
+      "handbook": "Handbook",
+      "manage-handbook": "Manage Handbook"
+    }
+  },
+  "manage-user": {
+    "add": "Add a new user",
+    "email": "Email",
+    "password": "Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phoneNumber": "Phone number",
+    "address": "Address",
+    "gender": "Gender",
+    "position": "Position",
+    "role": "Role",
+    "image": "Image",
+    "btn-save": "Create User",
+    "btn-edit": "Save User"
+  }
+}
